@@ -1,4 +1,4 @@
-# This project Information Retrieval System
+# Information Retrieval System
 **Author:** Matin Rasoulzad  
 **Date:** November 2025  
 **Version:** 2.0  
